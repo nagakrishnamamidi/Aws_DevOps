@@ -1,3 +1,7 @@
+40 Days of DevOps: Zero to Hero 🚀
+
+A comprehensive, structured 40-day learning journey that takes you from foundational knowledge to practical, job-ready skills. This roadmap is perfect for beginners to experienced professionals and those looking to solidify their DevOps understanding.
+
 ### **Day 1: DevOps Overview**  
 - Waterfall & Agile Methodology Overview  
 - DevOps Overview  
